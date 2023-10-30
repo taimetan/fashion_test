@@ -335,4 +335,8 @@ header {
     .d_none, .d_none1{
         display: block;
     }
+    #navbar{
+        justify-content: space-between;
+        margin: 0 10px;
+    }
 }
